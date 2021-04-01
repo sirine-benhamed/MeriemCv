@@ -1,0 +1,29 @@
+
+.accueil{
+    
+    width: 1000px;
+    top: 1%;
+    
+    
+    position: absolute;
+    ;
+}
+#meriem{
+    right: 100px;
+    width: 980px;
+    top: 1%;
+    left: 35%;
+    position: absolute;
+    height: 100px;
+    ;  
+    
+}
+#photo{
+    width: 80%;
+    padding: 2%;
+    margin: 10%;
+}
+body{
+    font-size: medium;
+    background-color:#ebd5f5;
+}
